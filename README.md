@@ -6,15 +6,18 @@
 
 Este proyecto fue creado para ti. 💡
 
-🛠️ Minecraft Backups For Drive es una herramienta hecha para crear **backups automáticos de mundos de Minecraft Bedrock**,  
-especialmente cuando el juego **no te deja hacer copias de seguridad** directamente desde el menú.
+🛠️ Minecraft Backups For Drive es una herramienta hecha para crear backups automáticos de mundos de Minecraft Bedrock,  
+especialmente cuando el juego no te deja hacer copias de seguridad directamente desde el menú.
 
 ---
 
 ❗ Compatibilidad
 
-⚠️ Tristemente, esta app está disponible **solo para Windows**.  
+⚠️ Tristemente, esta app está disponible solo para **Windows**.  
 (No funciona en macOS, Linux ni móviles 😔)
+
+⚠️ También es compatible **solo con Minecraft Bedrock Edition para PC**.  
+(No funciona con Minecraft Java ni versiones móviles o de consola)
 
 ---
 
@@ -38,6 +41,13 @@ Puedes mirar un ejemplo de ese problema aquí 👉
 ---
 
 🐞 ¿Encontraste algún bug o error?
+
+Por favor escríbeme a: 📧 mcbackupsengdr@gmail.com
+
+---
+
+Gracias por usar Minecraft Backups For Drive 💚  
+Hecho con cariño por un fan de Minecraft y jugadores que también perdieron su mundo por eso alguna vez 😔
 
 Por favor escríbeme a: 📧 **mcbackupsengdr@gmail.com**
 
