@@ -49,9 +49,3 @@ Por favor escríbeme a: 📧 mcbackupsengdr@gmail.com
 Gracias por usar Minecraft Backups For Drive 💚  
 Hecho con cariño por un fan de Minecraft y jugadores que también perdieron su mundo por eso alguna vez 😔
 
-Por favor escríbeme a: 📧 **mcbackupsengdr@gmail.com**
-
----
-
-Gracias por usar Minecraft Backups For Drive 💚  
-Hecho con cariño por un fan de Minecraft y jugadores que también perdieron su mundo por eso alguna vez 😔
